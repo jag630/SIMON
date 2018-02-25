@@ -1,0 +1,32 @@
+body {
+	background-color: black;
+	text-align: center;
+	font-family: Helvetica;
+	font-size: 3em;
+	color: white;
+}
+
+.rowcontainer {
+	width: 100%;
+	max-width: 400px;
+	margin: 0 auto;
+}
+.light {
+	display: inline-block;
+	margin: 4px 2px;
+	width: 45%;
+	padding-top: 45%;
+	border-radius: 10px;
+}
+
+#newgame {
+	font-size: 25px;
+	font-weight: bold;
+	width: 300px;
+	vertical-align: middle;
+	background-color: white;
+	color: black;
+	margin: 0 auto;
+}
+
+
